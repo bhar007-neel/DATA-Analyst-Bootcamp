@@ -1,0 +1,7 @@
+* means select all
+to run a sepecific query , click on that and highlight it, and then hit run.
+TO COMMENT IN SQL USE #
+In MYSQL any calculations and all follow the rule of PEMDAS
+Pemdas are order of calulations.
+
+distint helps us to find different value in all data
